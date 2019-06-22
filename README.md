@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a0ni9i6rdlrf50os?svg=true)](https://ci.appveyor.com/project/op07n/javatocsharp)
+
 Java to C# Converter
 ====================
 
