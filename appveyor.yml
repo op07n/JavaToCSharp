@@ -1,4 +1,5 @@
 image: Visual Studio 2015
 
 before_build:
-- ps: Install-Package Microsoft.CodeAnalysis.Analyzers -Version 2.0.0-beta1
+- ps: Install-Package Microsoft.CodeAnalysis.Analyzers -Version 1.2.0-beta2
+- ps: Install-Package Microsoft.CodeAnalysis.Common" version="2.0.0-beta3"
